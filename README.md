@@ -25,7 +25,10 @@ You can install Lythiun using 'go get', see:
 go get github.com/simplyYan/Lythiun
 ```
 ## 📖 Documentation
-Access the documentation by clicking here or by going to:
+Access the documentation by [clicking here](https://github.com/simplyYan/Lythiun/wiki/Docs) or by going to:
+```bash
+https://github.com/simplyYan/Lythiun/wiki/Docs
+```
 
 ## ⚖️ LICENSE
 Lythiun is licensed under BSD-CLAUSE, and is open-source. Read the license.
