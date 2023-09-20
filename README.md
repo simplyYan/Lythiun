@@ -21,7 +21,9 @@ Lythiun is a library developed for handling temporary tokens.
 
 ## 📦 How to install
 You can install Lythiun using 'go get', see:
-
+bash```
+go get github.com/simplyYan/Lythiun
+```
 ## 📖 Documentation
 Access the documentation by clicking here or by going to:
 
